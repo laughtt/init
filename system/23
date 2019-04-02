@@ -1,0 +1,5 @@
+# With a graphic session, we just have to login as the user we want to use
+# With ssh, we do this:
+# ssh username@domainname
+# or
+# ssh username@address

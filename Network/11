@@ -1,0 +1,17 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    11                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: jcarpio- <marvin@42.fr>                    +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2019/04/01 17:23:37 by jcarpio-          #+#    #+#              #
+#    Updated: 2019/04/01 17:55:09 by jcarpio-         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+# Use the output of the previous command to find the name and IP address of the
+# device that makes the link between you (local network) and the outside world
+# nat is an acronym for network address translation, so
+# the device that linkes me and the outside world should be
+nat (10.90.1.11)

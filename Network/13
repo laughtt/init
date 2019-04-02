@@ -1,0 +1,16 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    13                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: jcarpio- <marvin@42.fr>                    +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2019/04/01 17:49:16 by jcarpio-          #+#    #+#              #
+#    Updated: 2019/04/01 17:54:18 by jcarpio-         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+# Use the Reverse DNS to find out the name of the server linked to the 10.51.1.81 IP addres
+# host 10.51.1.253
+echo "253.1.51.10.in-addr.arpa domain name pointer dhcp-dns.42.us.org."
+echo "253.1.51.10.in-addr.arpa domain name pointer dhcp.42.us.org."

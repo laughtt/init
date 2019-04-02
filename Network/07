@@ -1,0 +1,15 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    07                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: jcarpio- <marvin@42.fr>                    +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2019/04/02 12:37:15 by jcarpio-          #+#    #+#              #
+#    Updated: 2019/04/02 12:37:22 by jcarpio-         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+# nslookup is used to make dns queries to obtain information such as the domain name,
+# ip address mapping, or the other dns related info
+nslookup slash16.org 8.8.8.8

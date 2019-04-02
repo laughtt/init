@@ -1,0 +1,2 @@
+#Identify the IP addres of the Ethernet interfaces
+ifconfig -L en0 | grep "inet " | cut -d " " -f 2
