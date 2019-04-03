@@ -1,2 +1,8 @@
-#Identify the IP addres of the Ethernet interfaces
+# Get info on ethernet network interface,
+# Lookf for row with "broadcast " in it,
+# Get broadcast address (6th word)
+ifconfig -L en0 | grep "broadcast " | cut -d " " -f 6
+# Get info on ethernet network interface,
+# look for row with "inet " in it,
+# remove all but ip
 ifconfig -L en0 | grep "inet " | cut -d " " -f 2
